@@ -180,17 +180,17 @@ tr.ok {
 }
 
 .td-link {
-    background-image: url(img/link.png)
+    background-image: url(img/link.svg)
 }
 
 .td-remove {
-    background-image: url(img/remove.png)
+    background-image: url(img/remove.svg)
 }
 
 .td-update {
-    background-image: url(img/update.png)
+    background-image: url(img/update.svg)
 }
 
 .td-archive {
-    background-image: url(img/archive.png)
+    background-image: url(img/archive.svg)
 }
